@@ -3165,7 +3165,7 @@ img {
 }
 
 .profile-page .page-header {
-  min-height: 550px;
+  min-height: 600px;
 }
 
 .profile-page .profile-container {
@@ -3184,7 +3184,7 @@ img {
 
 .profile-page .title {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 15px;
 }
 
 .profile-page .description,
@@ -4883,8 +4883,8 @@ img {
 .cc-profile-image img {
   position: relative;
   border-radius: 50%;
-  height: 180px;
-  width: 180px;
+  height: 370px;
+  width: 430px;
   padding: 0;
   margin: 0;
   border: 15px solid transparent;
